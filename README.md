@@ -62,7 +62,7 @@
 * paper
 ### 小工具
 * [方程式 Gif 產生器](https://www.codecogs.com/latex/eqneditor.php)
-	* smaple code :`\frac{\left | P\cap R \right |}{\left | P  \right |}`
+    * smaple code :`\frac{\left | P\cap R \right |}{\left | P  \right |}`
     * sample code : `F_1 = 2 \cdot \frac{\mathrm{precision} \cdot \mathrm{recall}}{\mathrm{precision} + \mathrm{recall}}`
 
 
