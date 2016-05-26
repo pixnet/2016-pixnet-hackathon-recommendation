@@ -2,9 +2,9 @@
 ----
 痞客邦為華文區最大的創作平台，擁有眾多閱讀者及大量的優質文章。而相關文章推薦一直是我們所關注閱讀體驗之中，故可根據其個人近幾個月瀏覽行為來推薦相關閱讀文章及創作者(部落客)。
 
-<img width="600px" src="https://docs.google.com/drawings/d/1e1epVxq0VRVJmy2DG5TBdUp8u3ZeyK2dwSkSQch2qgc/pub?w=851&amp;h=440" />
+<img width="650px" src="https://docs.google.com/drawings/d/1e1epVxq0VRVJmy2DG5TBdUp8u3ZeyK2dwSkSQch2qgc/pub?w=851&amp;h=440" />
 <br>
-<img width="200px" src="https://docs.google.com/drawings/d/1elJJ538OAcm3gxfyVoSoVU__1D-FQwRty1NrxmRqdR0/pub?w=455&h=100" />
+<img width="300px" src="https://docs.google.com/drawings/d/1elJJ538OAcm3gxfyVoSoVU__1D-FQwRty1NrxmRqdR0/pub?w=455&h=100" />
 
 ### 訓練資料集
 * 瀏覽紀錄
