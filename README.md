@@ -12,14 +12,14 @@ PIXNET痞客邦為華文區最大的創作平台，擁有眾多閱讀者及大�
 	* Date : 2015/03 ~ 2015/08
 	* [Schema Description](training_data_schema.md)
 	* [Sample File](./data/sample_training.json)
-	* [Full DataSet Download Link](http://www.pixnet.net)
+	* 完整資料集會再以 Mail 通知
 
 * 全文資料集
 	* 資料說明: 此資料集之中提供這些 URL 所包含的本文資料
 	* Date : 2015/03 ~ 2015/08
 	* [Schema Description](article_data_schema.md)
 	* [Sample File](./data/sample_article.json)
-	* [Full DataSet Download Link](http://www.pixnet.net)
+	* 完整資料集會再以 Mail 通知
 
 ### 待測使用者(Cookie)列表 
 * 資料說明: 待預測的Cookie(使用者)列表，參賽者必須根據這些Cookie(使用者)的歷史閱覽紀錄，來預測會再看哪些Author(創作者)
