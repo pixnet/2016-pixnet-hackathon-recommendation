@@ -1,14 +1,14 @@
 <center><h1>個人化文章推薦</h1></center>
 ----
-PIXNET痞客邦為華文區最大的創作平台，擁有眾多閱讀者及大量的優質文章。而相關文章推薦一直是我們所關注閱讀體驗之中，故可根據其個人近幾個月瀏覽行為來推薦相關閱讀文章及創作者(部落客)。
+推薦相關內容一直是我們所持續改良及關注的閱讀體驗之一，此題目為邀請所有參賽者根據個人興趣及近期瀏覽之行為，針對瀏覽者之後的行為進行預測，推薦閱讀相關內容。
 
 <img width="650px" src="https://docs.google.com/drawings/d/1e1epVxq0VRVJmy2DG5TBdUp8u3ZeyK2dwSkSQch2qgc/pub?w=851&amp;h=440" />
 <br>
 <img width="300px" src="https://docs.google.com/drawings/d/1elJJ538OAcm3gxfyVoSoVU__1D-FQwRty1NrxmRqdR0/pub?w=455&h=100" />
 
-### 訓練資料集
+### Training Data
 * 瀏覽紀錄
-	* 資料說明: 參賽者可以利用此6個月份歷史資料集來設計推薦模型，並且資料是採樣過的。
+	* 資料說明：參賽者可以利用此6個月份歷史資料集來設計推薦模型，而此資料集大約刪除約 4% 的瀏覽紀錄作為比賽題目，換句話用 96% 資料來推測 4% 的瀏覽行為
 	* Date : 2015/03 ~ 2015/08
 	* [Schema Description](training_data_schema.md)
 	* [Sample File](./data/sample_training.json)
@@ -37,7 +37,7 @@ PIXNET痞客邦為華文區最大的創作平台，擁有眾多閱讀者及大�
 
 ## 評分方式
 ----
-### 演算法推薦結果(80%)
+### 演算法推薦結果(70%)
 * 採用 Top-N Recommendation Precision and Recall 作為指標，故採用F1 Socre來作為最終的 Score 指標
 * 定義如下：
 	* P : 根據過去歷史資料(訓練資料集)產生 Author(創作者) 推薦模型，再利用此模型來針對每一個 Cookie 推薦 Top-N Author 集合及為 P，而N 的大小會根據不同的使用者(Cookie) 而不同
@@ -52,7 +52,7 @@ PIXNET痞客邦為華文區最大的創作平台，擁有眾多閱讀者及大�
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
 	* [上傳網址](http://www.pixnet.net)
 
-### 簡報分數(20%)
+### 簡報分數(30%)
 * 簡報內容
 * 演算法設計
 * 資料解釋及分析
