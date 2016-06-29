@@ -6,9 +6,9 @@
 <br>
 <img width="300px" src="https://docs.google.com/drawings/d/1elJJ538OAcm3gxfyVoSoVU__1D-FQwRty1NrxmRqdR0/pub?w=455&h=100" />
 
-### Training Data
+### 訓練資料集
 * 瀏覽紀錄
-	* 資料說明：參賽者可以利用此6個月份歷史資料集來設計推薦模型，而此資料集大約刪除約 4% 的瀏覽紀錄作為比賽題目，換句話用 96% 資料來推測 4% 的瀏覽行為
+	* 資料說明: 參賽者可以利用此6個月份歷史資料集來設計推薦模型，並且資料是採樣過的。
 	* Date : 2015/03 ~ 2015/08
 	* [Schema Description](training_data_schema.md)
 	* [Sample File](./data/sample_training.json)
