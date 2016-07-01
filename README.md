@@ -58,6 +58,7 @@
 ### 相關參考資料
 * [Large-scale Parallel Collaborative Filtering for
 the Netflix Prize](http://www.grappa.univ-lille3.fr/~mary/cours/stats/centrale/reco/paper/MatrixFactorizationALS.pdf)
+* [Spark Tutorial](http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html#examples)
 
 ### 小工具
 * [方程式 Gif 產生器](https://www.codecogs.com/latex/eqneditor.php)
