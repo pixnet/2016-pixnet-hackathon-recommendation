@@ -2,6 +2,7 @@
 ----
 推薦相關內容一直是我們所持續改良及關注的閱讀體驗之一，此題目為邀請所有參賽者根據個人興趣及近期瀏覽之行為，針對瀏覽者之後的行為進行預測，推薦閱讀相關內容。
 
+訓練資料及測試資料的示意圖如下
 <img width="650px" src="https://docs.google.com/drawings/d/1e1epVxq0VRVJmy2DG5TBdUp8u3ZeyK2dwSkSQch2qgc/pub?w=851&amp;h=440" />
 <br>
 <img width="300px" src="https://docs.google.com/drawings/d/1elJJ538OAcm3gxfyVoSoVU__1D-FQwRty1NrxmRqdR0/pub?w=455&h=100" />
