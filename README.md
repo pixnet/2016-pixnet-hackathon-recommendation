@@ -27,14 +27,6 @@
 * [Schema Description](testing_data_schema.md)
 * [Download Link](./data/testing.json)
 
-### Get Data From AWS
-* 取得方式
-* [Connection Tool Download]
-* [Related Library]
-
-### 備註:
-* 由於本站資料非常龐大，故抽樣部份資抖
-
 ## 評分方式
 ----
 ### 演算法推薦結果(70%)
@@ -51,6 +43,10 @@
 * 上傳預測結果取得 F1 Score
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
 	* 上傳網址將於賽前公布
+
+### 備註:
+* 由於本站資料非常龐大，故抽樣部份資抖
+
 
 ### 簡報分數(30%)
 * 簡報內容
