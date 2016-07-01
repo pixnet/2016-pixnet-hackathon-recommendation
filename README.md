@@ -44,19 +44,19 @@
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
 	* 上傳網址將於賽前公布
 
-### 備註:
-* 由於本站資料非常龐大，故抽樣部份資抖
-
-
 ### 簡報分數(30%)
 * 簡報內容
 * 演算法設計
 * 資料解釋及分析
 
+
+### 備註:
+* 由於本站資料非常龐大，故抽樣部份資抖
+
 ----
 ### 相關參考資料
-* book
-* paper
+* [Large-scale Parallel Collaborative Filtering for
+the Netflix Prize](http://www.grappa.univ-lille3.fr/~mary/cours/stats/centrale/reco/paper/MatrixFactorizationALS.pdf)
 
 ### 小工具
 * [方程式 Gif 產生器](https://www.codecogs.com/latex/eqneditor.php)
