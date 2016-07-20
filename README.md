@@ -62,6 +62,9 @@ the Netflix Prize](http://www.grappa.univ-lille3.fr/~mary/cours/stats/centrale/r
 * [Spark Tutorial](http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html#examples)
 * [範例程式碼](http://www.pixnet.net)
 
+### 說明影片
+- [影片鏈結](https://youtu.be/mQz6lIZHwkA?t=15m14s)
+
 ### 小工具
 * [方程式 Gif 產生器](https://www.codecogs.com/latex/eqneditor.php)
     * smaple code :`\frac{\left | P\cap R \right |}{\left | P  \right |}`
