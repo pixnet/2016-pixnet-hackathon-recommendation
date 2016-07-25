@@ -41,11 +41,11 @@
 
 	* F1 Measure 定義 :<img src='https://latex.codecogs.com/gif.latex?F_1%20%3D%202000*%20%5Ccdot%20%5Cfrac%7B%5Cmathrm%7Bprecision%7D%20%5Ccdot%20%5Cmathrm%7Brecall%7D%7D%7B%5Cmathrm%7Bprecision%7D%20&plus;%20%5Cmathrm%7Brecall%7D%7D'>
 	
-	* 分數轉換採用 Min-max 標準化
+	* 演算法推薦分數 : 採用 Min-max 標準化將 F1 Measure 進行轉換
 		* H : 所有隊伍中最高分的 F1 Measure 即代表 H 
 		* L : 所有隊伍中最低分的 F1 Measure 即代表 L
 		* X : 某隊中所上傳中的最高 F1 Measure 即代表 X
-		* <img src='https://latex.codecogs.com/gif.latex?score%20%3D%2070%5Ctimes%20%5Cfrac%7BX-L%7D%7BH-L%7D' />
+		* <img src='https://latex.codecogs.com/gif.latex?score%20%3D%20100%5Ctimes%20%5Cfrac%7BX-L%7D%7BH-L%7D' />
 
 * 上傳預測結果取得 F1 Score
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
@@ -56,6 +56,7 @@
 * 演算法設計
 * 資料解釋及分析
 
+### 總分計算 : 0.7*演算法推薦分數 + 0.3*簡報分數
 
 ### 備註:
 * 由於本站資料非常龐大，故抽樣部份資抖
