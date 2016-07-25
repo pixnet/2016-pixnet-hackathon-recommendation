@@ -40,6 +40,12 @@
 	* Recall 定義 :<img src='https://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Cleft%20%7C%20P%5Ccap%20R%20%5Cright%20%7C%7D%7B%5Cleft%20%7C%20R%20%5Cright%20%7C%7D'>
 
 	* F1 Score 定義 :<img src='https://latex.codecogs.com/gif.latex?F_1%20%3D%202000*%20%5Ccdot%20%5Cfrac%7B%5Cmathrm%7Bprecision%7D%20%5Ccdot%20%5Cmathrm%7Brecall%7D%7D%7B%5Cmathrm%7Bprecision%7D%20&plus;%20%5Cmathrm%7Brecall%7D%7D'>
+	
+	* 70 分實際分數計算方式
+		* H : 所有隊伍中最高分的 F1 分數即代表 H 
+		* L : 所有隊伍中最低分的 F1 分數即代表 L
+		* X : 某隊中所上傳中的最高 F1 分數即代表 X
+		* 70-Score = 70*(X-L)/(H-L)
 
 * 上傳預測結果取得 F1 Score
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
