@@ -50,6 +50,7 @@
 * 上傳預測結果取得 F1 Score
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
 	* 上傳網址將於賽前公布
+	* 前三名隊伍的分數將會顯示在 網站的 Leader Board 之中
 
 ### 簡報分數(30%)
 * 簡報內容
