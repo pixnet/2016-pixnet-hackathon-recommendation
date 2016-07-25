@@ -45,7 +45,7 @@
 		* H : 所有隊伍中最高分的 F1 分數即代表 H 
 		* L : 所有隊伍中最低分的 F1 分數即代表 L
 		* X : 某隊中所上傳中的最高 F1 分數即代表 X
-		* 70-Score = 70*(X-L)/(H-L)
+		* <img src='https://latex.codecogs.com/gif.latex?score70%20%3D%2070%5Ctimes%20%5Cfrac%7BX-L%7D%7BH-L%7D' />
 
 * 上傳預測結果取得 F1 Score
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
@@ -75,6 +75,7 @@ the Netflix Prize](http://www.grappa.univ-lille3.fr/~mary/cours/stats/centrale/r
 * [方程式 Gif 產生器](https://www.codecogs.com/latex/eqneditor.php)
     * smaple code :`\frac{\left | P\cap R \right |}{\left | P  \right |}`
     * sample code : `F_1 = 2 \cdot \frac{\mathrm{precision} \cdot \mathrm{recall}}{\mathrm{precision} + \mathrm{recall}}`
+    * sample code : `score70 = 70\times \frac{X-L}{H-L}`
 
 
 
