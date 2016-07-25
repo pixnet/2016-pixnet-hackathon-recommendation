@@ -45,7 +45,7 @@
 		* H : 所有隊伍中最高分的 F1 Measure 即代表 H 
 		* L : 所有隊伍中最低分的 F1 Measure 即代表 L
 		* X : 某隊中所上傳中的最高 F1 Measure 即代表 X
-		* <img src='https://latex.codecogs.com/gif.latex?score70%20%3D%2070%5Ctimes%20%5Cfrac%7BX-L%7D%7BH-L%7D' />
+		* <img src='https://latex.codecogs.com/gif.latex?score%20%3D%2070%5Ctimes%20%5Cfrac%7BX-L%7D%7BH-L%7D' />
 
 * 上傳預測結果取得 F1 Score
 	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
