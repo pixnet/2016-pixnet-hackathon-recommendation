@@ -68,7 +68,7 @@
 * [Large-scale Parallel Collaborative Filtering for
 the Netflix Prize](http://www.grappa.univ-lille3.fr/~mary/cours/stats/centrale/reco/paper/MatrixFactorizationALS.pdf)
 * [Spark Tutorial](http://spark.apache.org/docs/latest/mllib-collaborative-filtering.html#examples)
-* [範例程式碼](http://www.pixnet.net)
+* [範例程式碼](https://github.com/pixnet/2016-pixnet-hackathon-recommendation/blob/master/Article_Recommendation_Sample_Code.ipynb)
 
 ### 說明影片
 - [影片鏈結](https://youtu.be/mQz6lIZHwkA?t=15m14s)
