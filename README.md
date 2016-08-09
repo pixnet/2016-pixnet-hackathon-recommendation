@@ -48,7 +48,7 @@
 		* <img src='https://latex.codecogs.com/gif.latex?score%20%3D%20100%5Ctimes%20%5Cfrac%7BX-L%7D%7BH-L%7D' />
 
 * 上傳預測結果取得 F1 Score
-	* [上傳格式範例檔](https://github.com/pixnet/pix-recommendation/blob/master/data/sample_submit.json)
+	* [上傳格式範例檔](./data/sample_submit.json)
 	* 上傳網址將於賽前公布
 	* 前三名隊伍的分數將會顯示在 網站的 Leader Board 之中
 
