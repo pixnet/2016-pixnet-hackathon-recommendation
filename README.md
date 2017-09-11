@@ -13,14 +13,14 @@
 	* Date : 2015/03 ~ 2015/08
 	* [Schema Description](training_data_schema.md)
 	* [Sample File](./data/sample_training.json)
-	* 完整資料集會再以 Mail 通知
+	* [完整資料集](https://s3-ap-northeast-1.amazonaws.com/pixnet-hackathon-2016/topic_2-recommendation/training.tar.gz)
 
 * 全文資料集
 	* 資料說明: 此資料集之中提供這些 URL 所包含的本文資料
 	* Date : 2015/03 ~ 2015/08
 	* [Schema Description](article_data_schema.md)
 	* [Sample File](./data/sample_article.json)
-	* [完整資料集](https://s3-ap-northeast-1.amazonaws.com/pixnet-hackathon-2016/topic_2-recommendation/training.tar.gz)
+	* [完整資料集](https://s3-ap-northeast-1.amazonaws.com/pixnet-hackathon-2016/topic_2-recommendation/article.tar.gz)
 
 ### 待測使用者(Cookie)列表 
 * 資料說明: 待預測的Cookie(使用者)列表，參賽者必須根據這些Cookie(使用者)的歷史閱覽紀錄，來預測會再看哪些Author(創作者)
